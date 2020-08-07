@@ -14,6 +14,6 @@ constituent of the Internet of Things ("IoT"). A home automation system typicall
 control of the system uses either wall-mounted terminals, tablet or desktop computers, a mobile phone application, or a Web interface, that may also be accessible 
 off-site through the Internet.
 
-Controlling home appliances using bluetooth. The appliances like bulb, fan, Mixer grinder, fridge,etc can be controlled from your device i.e mobile ,tab 
-or laptop via Bluetooth.This project can be built using Arduino. Using the code and rigging up the circuit as shown in the circuit diagram , appliances at
+Controlling home appliances like bulb, fan, Mixer grinder, fridge,etc from your device via Bluetooth. 
+This project can be built using Arduino. Using the code and rigging up the circuit as shown in the circuit diagram , appliances at
 your home can be controlled using bluetooth.
