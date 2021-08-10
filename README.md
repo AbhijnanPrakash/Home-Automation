@@ -1,4 +1,4 @@
-# IOT-Internship-with-Dlithe-
+# Internet of Things
 
 The Internet of Things (IoT) is changing how we live, work, travel, and do business. It is even the basis of a new industrial transformation, known as Industry 4.0, 
 and key in the digital transformation of organizations, cities, and society overall. IoT is an umbrella term with many use cases, technologies, standards and 
